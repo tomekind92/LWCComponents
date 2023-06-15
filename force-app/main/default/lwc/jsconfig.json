@@ -8,7 +8,7 @@
     ],
     "paths": {
         "c/*": [
-            "*"
+                                "*"
         ]
     },
     "typeAcquisition": {
@@ -16,5 +16,4 @@
             "jest"
         ]
     }
-    To jest test merge hehehehehehe
 }
