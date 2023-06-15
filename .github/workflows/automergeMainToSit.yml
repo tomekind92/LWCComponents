@@ -12,7 +12,7 @@ env:
   # do NOT replace ${{secrets.GITHUB_TOKEN}}, GitHub will take care of it
   MY_REPO: https://tomekind92:${{secrets.GITHUB_TOKEN}}@github.com/tomekind92/LWCComponents.git
 
-  # branch to be merged
+  # branch to be merged with master
   MY_BRANCH: sit
 
   # replace it with the path to master repo
